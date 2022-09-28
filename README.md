@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dhruv1420
+- 👀 I’m interested in cpp, wev dev and photo editing kind of stuff
+- 🌱 I’m currently learning php, advance of cpp
+- 💞️ I’m currently the part of IIT Patna as a MnC 2nd year Student
+- 📫 How to reach me a_d_1420 (my insta handle)
